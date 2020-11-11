@@ -1,0 +1,14 @@
+* {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+
+html {
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+}
