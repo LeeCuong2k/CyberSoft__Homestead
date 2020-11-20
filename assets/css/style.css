@@ -541,6 +541,10 @@ body {
   margin: 0;
 }
 
+.owl-theme .owl-dots .owl-dot {
+  outline: none;
+}
+
 /* --- STYLE STATS --- */
 .stats {
   padding: 80px 0;
