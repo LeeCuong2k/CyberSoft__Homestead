@@ -852,6 +852,13 @@ body {
   }
 }
 
+@media screen and (min-width: 769px) and (max-width: 773px) {
+  .header__main__info .header__main__info__content .menu > li > a,
+  .header__main__info__content .menu .drop__down label {
+    padding: 10px 7px;
+  }
+}
+
 /* Điện thoại, máy tính bảng <== 768px */
 @media screen and (max-width: 768px) {
   /* header__main__info */
